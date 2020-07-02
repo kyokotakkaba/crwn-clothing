@@ -1,0 +1,6 @@
+{
+  "editor.fontFamily": "'Operator Mono Lig','Hasklig','monospace','consolas','arial'",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "100",
+  "editor.formatOnSave": true
+}
